@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlienForotherPlanets
 - 👀 I’m interested in block-chain,ML,AI,cybersecurity
-- 🌱 I’m currently learning block-learning
+- 🌱 I’m currently learning Machine Learning
 
 <!---
 AlienForotherPlanets/AlienForotherPlanets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
