@@ -8,7 +8,6 @@ class Yash:
         self.info={
             Institute: "Birla Vishvakarma Mahavidhyalaya",
             Status: "Student",
-            Goal: "To Become a Data Scientist"
         }
         self.code=["Java","C++","Python","R","HTML","CSS","JavaScript"]
         self.tools=["TensorFlow","Flask","NumPy","Pandas","Sklearn"]
